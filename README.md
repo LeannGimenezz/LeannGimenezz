@@ -13,14 +13,7 @@
 >> "Because it is below C level."
 
 ---
-### 💻:keyboard: Languages and Tools 
-
-### Languages<sup>*</sup>
-
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
-
+### 💻 Languages and Tools 
 
   **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
@@ -66,12 +59,9 @@
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
  ---
-### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
+### ☕ Get In Touch
+- [LinkedIn]((https://www.linkedin.com/in/leandro-gimenez-4133b8242/))
+- [Twitter]((https://twitter.com/Lean_Gimenez2))
+- [Instagram]((https://www.instagram.com/leann_gimenez/))
+-  Gmail: leangime2001@gmail.com
  
-⭐️ From [Quan](https://github.com/Quananhle) with :sparkling_heart: 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
