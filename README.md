@@ -1,18 +1,19 @@
-## Hello World! 👋
 
-<div align="center"> 🚀 Welcome to my house :japanese_castle:</div>
 
----
-### :volcano: Funny Joke
-
-> "Have you heard about the object-oriented way to become wealthy?"
->> "No..."
->>> "Inheritance!"
-
-> "Why all Pascal programmers ask to live in Atlantis?"
->> "Because it is below C level."
+<div align="center">🚀 Hello World! 🚀</div>
 
 ---
+### About me
+
+Hey there! I'm Leandro Gimenez, an enthusiastic fullstack web developer passionate about creating engaging digital experiences. I specialize in leveraging a diverse stack of technologies including Java, Spring, MySql, JavaScript, React, Node.js, to bring ideas to life.
+
+My journey in development began with a fascination for blending design aesthetics with robust functionality. Since then, I've immersed myself in a variety of projects, ranging from simple websites to complex web applications, honing my skills along the way.
+
+I thrive in collaborative environments, where I can work alongside diverse teams to tackle challenges and deliver outstanding results. As a strong believer in the power of open source, I actively contribute to projects and share insights with the broader community.
+
+Beyond coding, I'm an avid learner, always eager to explore emerging technologies and refine my craft. When I'm not in front of the screen, you can find me outdoors, pursuing my other passions.
+
+
 ### 💻 Languages and Tools 
 
   **Java**: 
@@ -21,13 +22,13 @@
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
   [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-
+  
   **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
   **SQL:**
